@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="real_app_name">Secret Vault</string>
+    <string name="accessibility_service_description">Protects locked applications with stealth camouflage and military-grade PIN verification.</string>
+</resources>
